@@ -33,7 +33,7 @@ FILE_INTERFACES="/etc/network/interfaces"
 FILE_NM_CONF="/etc/NetworkManager/NetworkManager.conf"
 FILE_NM_CONNECTION="/etc/NetworkManager/system-connections/default"
 
-URL_RAW_BASE="https://raw.githubusercontent.com/home-assistant/supervised-installer/master/files"
+URL_RAW_BASE="https://raw.githubusercontent.com/koying/supervised-installer/wsl/files"
 URL_VERSION_HOST="version.home-assistant.io"
 URL_VERSION="https://${URL_VERSION_HOST}/stable.json"
 URL_BIN_APPARMOR="${URL_RAW_BASE}/hassio-apparmor"
